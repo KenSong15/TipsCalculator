@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Widgets</string>
+    <string name="topic">Tips comparison calculator \n
+        plain text: show topic \t\t\t\t\t\t input: input subtotal\n
+        button: do the math \t\t\t\t\t\t\t  radio: in USD CAD RMB\n
+        seekbar: persentage rate \t\t\t
+        switch: with tax overall\n
+        toggle: w/t or w/o approved \n
+        checkbar.alert: confirmation </string>
+</resources>
